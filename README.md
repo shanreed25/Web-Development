@@ -8,13 +8,13 @@
 - Responsive Design
 - User Interface (UI) & User Experience (UX)
 
-### Back-End Development
+### [Back-End Development](./BackEnd/README.md)
 - Server-Side Programming Languages
 - Databases
 - APIs (Application Programming Interfaces)
 - Server Management
 
-### Full-Stack Development:
+### [Full-Stack Development](./FrontEnd/README.md)
 - Combination of Front-End and Back-End
 
 ### Other Essential Concepts:
